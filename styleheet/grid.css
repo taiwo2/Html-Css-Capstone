@@ -1,0 +1,35 @@
+.house-info1 {
+  background-color: lightgreen;
+}
+.house-info1 img {
+  height: 150px;
+  width: 100%;
+}
+
+.info-line {
+  padding: 12px;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.find {
+  padding: 7px;
+  margin-left: 120px;
+  background-color: #d35266;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 3px;
+}
+
+@media (min-width: 768px) {
+  .house-info1 {
+    display: flex;
+    height: 100%;
+  }
+
+  .house-info1 img {
+    max-width: 300px;
+    height: 400px;
+    border-radius: 100%;
+  }
+}
