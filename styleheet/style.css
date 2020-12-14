@@ -102,7 +102,7 @@ header {
   }
 
   .ign {
-    margin-left: 20rem;
+    margin-left: 19rem;
   }
 }
 
@@ -168,7 +168,15 @@ header {
     background-color: #d35266;
   }
   .form {
-    width: 40%;
+    width: 70%;
+  }
+
+  .form-input {
+    max-width: 100%;
+    padding-left: 6px;
+  }
+  .md-flex {
+    padding-left: 10px;
   }
 
   .int-work {
