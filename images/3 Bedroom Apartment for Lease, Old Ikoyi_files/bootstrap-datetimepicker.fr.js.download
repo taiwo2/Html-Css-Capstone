@@ -1,0 +1,1216 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Cortts Limited">
+    
+    <meta name="keywords" content="cortts, cortts limited">
+<meta name="description" content="We are a team of motivated and dedicated property professionals consisting of lawyers, estate surveyors, architects and builders, with our focus firmly on keeping our clients profitably happy by helping them make confident and informed real estate investment decisions.">
+
+
+<meta name="keywords" content="real estate, mls, houses for sale, homes for sale, for sale by owner">
+<meta name="description" content="We are a team of motivated and dedicated property professionals consisting of lawyers, estate surveyors, architects and builders, with our focus firmly on...">
+
+<meta name="keywords" content="land for sale, commercial real estate, houses for sale near me, mls listings, foreclosure, realtors">
+<meta name="description" content="We are a team of motivated and dedicated property professionals consisting of lawyers, estate surveyors, architects and builders, with our focus firmly on...">
+
+<meta name="keywords" content="condos for sale, fsbo, home for sale, real estate license, real estate agent, realtor">
+<meta name="description" content="We are a team of motivated and dedicated property professionals consisting of lawyers, estate surveyors, architects and builders, with our focus firmly on...">
+
+<meta name="keywords" content="realty, for sale, homes for sale by owner, foreclosed homes, real estate school">
+<meta name="description" content="We are a team of motivated and dedicated property professionals consisting of lawyers, estate surveyors, architects and builders, with our focus firmly on...">
+
+<meta name="keywords" content="mls listing, buying a house, townhomes for sale, homesearch, houses for sale by owner">
+<meta name="description" content="We are a team of motivated and dedicated property professionals consisting of lawyers, estate surveyors, architects and builders, with our focus firmly on...">
+
+<meta name="keywords" content="properties in ikoyi, properties in lekki, properties in v.i, properties in lagos, properties in lagos island">
+<meta name="description" content="We are a team of motivated and dedicated property professionals consisting of lawyers, estate surveyors, architects and builders, with our focus firmly on...">
+
+
+	<link rel="shortcut icon" href="pix/favicon.png">
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+    <link href="assets/fonts/font-awesome.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/jquery.slider.min.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/owl.transitions.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136021682-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-136021682-1');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1594077404225320');
+  fbq('track', 'PageView');
+
+  fbq('track', 'Schedule');
+  fbq('track', 'ViewContent');
+  fbq('track', 'FindLocation');
+  fbq('track', 'Lead');
+  fbq('track', 'Contact');
+</script>
+
+
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1594077404225320&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!--cortts Alex begins-->
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"Es0Us1Fx9f207i", domain:"cortts.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=Es0Us1Fx9f207i" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+
+<!--css for cookies starts-->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<!--css for cookies ends-->
+
+<!-- zoho chats begins-->
+<!--<script type="text/javascript">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"fdf9ec2081cd778d0ba6e039ba7ffe6ef51b2ada918289673e0027de044875ba02ea2a79652b7279677668ebdb4739ee", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");</script>-->
+<!--zoho chats ends-->
+
+<!-- jivo chats begins-->
+<!--<script src="//code.jivosite.com/widget/ui8zAsMS4J" async></script>-->
+<!--jivo chats ends-->
+
+<!-- GLOWING MENU
+https://codepen.io/arximughal/pen/LEpoOJ
+-->
+<style>
+
+.button {
+  background-color: #50CAE0;
+  -webkit-border-radius: 5px;
+  border-radius: 3px;
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial;
+  /*font-size: 20px;*/
+  /*padding: 10px 23px 15px 10px;*/
+  margin-top:-10px;
+  text-align: center;
+  text-decoration: none;
+  -webkit-animation: glowing 1500ms infinite;
+  -moz-animation: glowing 1500ms infinite;
+  -o-animation: glowing 1500ms infinite;
+  animation: glowing 1500ms infinite;
+}
+
+@media screen and (min-width: 768px) {
+.button	{padding: 10px 23px 15px 10px;}
+}
+
+@-webkit-keyframes glowing {
+  0% { background-color: ##29333D; -webkit-box-shadow: 0 0 3px #50CAE0; }
+  80% { background-color: #29333D; -webkit-box-shadow: 0 0 40px #50CAE0; }
+  100% { background-color: #29333D; -webkit-box-shadow: 0 0 3px #50CAE0; }
+}
+
+@-moz-keyframes glowing {
+  0% { background-color: #29333D; -webkit-box-shadow: 0 0 3px #50CAE0; }
+  80% { background-color: #29333D; -webkit-box-shadow: 0 0 40px #50CAE0; }
+  100% { background-color: #29333D; -webkit-box-shadow: 0 0 3px #50CAE0; }
+}
+
+@-o-keyframes glowing {
+  0% { background-color: #29333D; -webkit-box-shadow: 0 0 3px #50CAE0; }
+  80% { background-color: #29333D; -webkit-box-shadow: 0 0 40px #50CAE0; }
+  100% { background-color: #29333D; -webkit-box-shadow: 0 0 3px #50CAE0; }
+}
+
+@keyframes glowing {
+  0% { background-color: #29333D; -webkit-box-shadow: 0 0 3px #50CAE0; }
+  80% { background-color: #29333D; -webkit-box-shadow: 0 0 40px #50CAE0; }
+  100% { background-color: #29333D; -webkit-box-shadow: 0 0 3px #50CAE0; }
+}
+</style>
+<!-- GLOWING MENU ENDS -->
+
+
+	
+    <!-- THESE ARE FOR THE SUBMIT PROPERTY PAGE -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/fileinput.min.css" type="text/css">
+	<!-- THESE ARE FOR THE SUBMIT PROPERTY PAGE -->
+
+	<link rel="stylesheet" href="assets/css/my_css.css" type="text/css">
+    
+    <!-- FONTAWESOME ICONS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <title>Welcome to CORTTS LTD</title>
+  
+<!-- STICKY MENU -->
+<style>
+ /* Style the header */
+.header {
+/*  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;*/
+}
+
+/* Page content */
+.content {
+ /* padding: 16px;*/
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 102px;
+} 
+</style>
+<!-- STICKY MENU ENDS --><!-- FONTAWESOME ICONS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--MOTIVATIONAL QUOTE SLIDE
+https://codepen.io/Muhammad_Adil93/pen/xOBzwy
+-->
+<style>
+.quotes {display: none;}
+</style>
+<!--MOTIVATIONAL QUOTE SLIDE -->
+
+
+<!-- SLIDING LOGOS
+https://codepen.io/jurbank/pen/tcdFA
+-->
+<style>
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+$bg-color: #d9d8c6;
+$primary-color: #5b5a5c;
+$secondary-color: darken($primary-color, 15%);
+
+li {
+  list-style: none;
+}
+
+.suga-container {
+  background: $primary-color;
+  padding: .2em;
+  max-width: 100%;
+  margin: 5em auto;
+  box-shadow: 3px 3px 0px $secondary-color;
+  border: 2px solid $secondary-color;
+  border-radius: 5px;
+}
+
+.suga-slider-wrap {
+  overflow: hidden;
+  margin: 1em;
+}
+
+.suga-slider-group {
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+
+  &:after {
+    clear: both;
+  }
+}
+
+.suga-slide {
+  float: left;
+  position: relative;
+  margin-left: 0;
+  padding-right: 8px;
+}
+</style>
+
+<!-- RESPONSIVE VIDEO -->
+<style>
+/*http://activelab.io/tutorials/html-5-full-screen-and-responsive-videos*/
+
+video
+{
+    width: 100%;
+    height: auto;
+	margin-top:-25px;
+}
+
+.videoContainer
+{
+    position:relative;
+    max-height:600px;
+    width:100%;
+    overflow: hidden;
+}
+
+.videoContainer video
+{
+    min-width: 100%;
+    min-height: 250px;
+}
+
+</style>
+<!-- RESPONSIVE VIDEO -->
+
+<!-- SLIDING PROPERTY
+https://codepen.io/anon/pen/baNPqE
+-->
+<style>
+@media screen and (max-width: 768px) {
+.main-text
+{
+    position: absolute;
+    top: 1%;
+    width: 100%;
+    color: #FFF;
+	
+}
+}
+
+@media screen and (min-width: 768px) {
+.main-text
+{
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    color: #FFF;
+	
+}
+}
+
+.btn-min-block
+{
+    min-width: 170px;
+    line-height: 26px;
+}
+.btn-clear
+{
+    color: #FFF;
+    background-color: transparent;
+    border-color: #FFF;
+    margin-right: 15px;
+}
+.btn-clear:hover
+{
+    color: #000;
+    background-color: #FFF;
+}
+/*
+.container {
+	width: 100% !important;
+	padding: 0px !important;
+}
+*/
+</style>
+
+<!-- SLIDING PROPERTY ENDS -->
+
+</head>
+
+<!-- DEFAULT WITH STICKY MENU <body class="page-homepage navigation-fixed-top page-slider horizontal-search-float" id="page-top" data-spy="scroll" data-target=".navigation" data-offset="90"> -->
+
+<body class="page-homepage page-slider horizontal-search-float" id="page-top" data-spy="scroll" data-target=".navigation" data-offset="90">
+<!-- Wrapper -->
+<div class="wrapper">
+
+    <div class="navigation">
+        <div class="secondary-navigation" style="background:#FFFFFF;">
+            <div class="container">
+                <div class="contact">
+                    <figure><strong><img src="pix/phone2.png" /> Call Us Today:</strong>+234 (01) 2770177-9, +2349099348900</figure>
+                    <figure><strong><img src="pix/mail.png" width="15" /></strong>info@cortts.com</figure>
+                </div>
+                <div class="user-area">
+                    <div class="actions">
+                        
+                        												<a href="https://www.facebook.com/corttslimited" target="_blank" class="link facebook"><img src="pix/icons/facebook.png" width="20"></a>
+						                        
+                                                <a href="https://www.twitter.com/corttsltd" target="_blank" class="link twitter"><img src="pix/icons/twitter.png" width="20"></a>
+                                                
+                                                <a href="https://https://www.linkedin.com/company/cortts-limited" target="_blank" class="link linkedin"><img src="pix/icons/linkedin.png" width="20"></a>
+                                                
+                                                <a href="https://www.instagram.com/corttsltd" target="_blank" class="link instagram"><img src="pix/icons/instagram.png" width="20" width="20"></a>
+                                                
+                                                <a href="https://www.youtube.com/user/corttsng" target="_blank" class="link youtube"><img src="pix/icons/youtube.png" width="20"></a>
+                                                
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+
+<div class="navigation header" id="myHeader">
+        <div class="container">
+            <header class="navbar" id="top" role="banner" style="margin-top:-15px; margin-bottom:-15px;">
+                <div class="navbar-header">
+                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                        <br/>
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar" style="background-color:#FFF;"></span>
+                        <span class="icon-bar" style="background-color:#FFF;"></span>
+                        <span class="icon-bar" style="background-color:#FFF;"></span>
+                    </button>
+                    <div class="navbar-brand nav" id="brand">
+                        <a href="index.php"><img src="pix/logo.png" alt="Cortts Ltd" width="100"></a>
+                    </div>
+                </div>
+                <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
+                    <ul class="nav navbar-nav">
+                        
+                        <li class='active'><a href="index.php">Home</a></li>
+                        
+                        <li ><a href="about-us.php">About Us</a></li>
+                        
+                        <li class="has-child" ><a>Services</a>
+                        	<ul class="child-navigation">
+                                <li><a href="pages.php?p=advisory-services">Property & Investment Advisory Services</a></li>
+                                <li><a href="pages.php?p=marketing-and-sales">Marketing & Sales</a></li>
+                                <li><a href="pages.php?p=property-development">Property Development</a></li>
+                            </ul>
+                        </li>
+                        
+                        <li ><a href="properties.php">Our Listings</a></li>
+                        
+                        <li ><a href="blog.php">Blog</a></li>
+                        
+                        <li ><a href="contact-us.php">Get In Touch</a></li>
+                        
+                        <li ><a href="submit.php">List with Us</a></li>
+                        
+                        <li ><a href="request.php">Request Property</a></li>
+                        
+                                                
+                    </ul>
+                </nav><!-- /.navbar collapse-->
+                <div class="add-your-property">
+                    <a href="properties.php" class="btn" style="background-color:#85C226; color:#ffffff; margin-top:-51px;"><i class="fa fa-home"></i><span class="text" style="margin-top:-35px">View Properties</span></a>
+                </div>
+            </header><!-- /.navbar -->
+        </div><!-- /.container -->
+    </div>    <!-- /.navigation -->
+
+    <!-- Slider--> 
+    <div class="videoContainer">
+          <video autoplay loop muted>
+    		<source src="welcome.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+    		Your Browser boes not support Video Plyer
+          </video>
+    </div>
+    <!-- end Slider -->
+
+
+    <!-- Page Content -->
+    <div id="page-content">
+        <section id="our-services" class="block">
+            <div class="container">
+                <header class="section-title"><h2 style="border-bottom:0px;">Our Services</h2></header>
+                <div class="row">
+                    
+					                    <div class="col-md-4 col-sm-4">
+                        <div class="feature-box equal-height">
+                            <figure class="icon"><i class="fa fa-home"></i></figure>
+                            <aside class="description">
+                                <header><h3>Property & Investment Advisory Services</h3></header>
+                                <p><p><span style="color: rgb(8, 49, 57);"><span style="font-weight: bold;">We take a professional approach to our business and undertake fiduciary roles that require a high level of professional integri</p>
+                                <b><a href="pages.php?p=advisory-services" class="link-arrow">Read More</a></b>
+                            </aside>
+                        </div><!-- /.feature-box -->
+                    </div><!-- /.col-md-4 -->
+                    
+                                        <div class="col-md-4 col-sm-4">
+                        <div class="feature-box equal-height">
+                            <figure class="icon"><i class="fa fa-money"></i></figure>
+                            <aside class="description">
+                                <header><h3>Marketing & Sales</h3></header>
+                                <p><p><span style="color: rgb(8, 49, 57);"><b>We have built enduring relationships because we honour our obligations to our clients.</b></span></p><p><span style="font-weight: bold; color: rgb(8, 49, 57)</p>
+                                <b><a href="pages.php?p=marketing-and-sales"></a></b>
+                                <b><a href="pages.php?p=marketing-and-sales" class="link-arrow">Read More</a></b>
+                            </aside>
+                        </div><!-- /.feature-box -->
+                    </div><!-- /.col-md-4 -->
+                    
+                                        <div class="col-md-4 col-sm-4">
+                        <div class="feature-box equal-height">
+                            <figure class="icon"><i class="fa fa-bank"></i></figure>
+                            <aside class="description">
+                                <header><h3>Property Development</h3></header>
+                                <p><p><span style="color: rgb(8, 49, 57);"><b>Like most businesses we love to keep our eye on the bottom line, BUT we get great satisfaction from building homes for happy, satisfied clients.</b></span></</p>
+                                <b><a href="pages.php?p=property-development" class="link-arrow">Read More</a></b>
+                            </aside>
+                        </div><!-- /.feature-box -->
+                    </div><!-- /.col-md-4 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /#our-services -->  
+        
+        <section id="new-properties" class="block">
+            <div class="container">
+                <header class="section-title">
+                    <h2 style="border-bottom:0px;">Featured Listings</h2>
+                </header>
+                <div class="row">
+
+                
+                    <div class="col-md-3 col-sm-6" style="margin-bottom:30px;">
+                        <div class="property">
+                            <a href="view-property.php?pid=C00073">
+                                <div class="property-image">
+                                    <img alt="" src="pix/properties/C00073-15668389471s.jpg">
+                                </div>
+                                <div class="overlay">
+                                    <div class="info">
+                                                                                <div class="tag price">$ 90,000</div>
+                                                                                <h3>Seattle Residence</h3>
+                                        <figure></figure>
+                                    </div>
+                                    <ul class="additional-info">
+                                        <li>
+                                            <header>Area:</header>
+                                            <figure>0m<sup>2</sup></figure>
+                                        </li>
+                                        <li>
+                                            <header>Beds:</header>
+                                            <figure>3</figure>
+                                        </li>
+                                        <li>
+                                            <header>Baths:</header>
+                                            <figure>3</figure>
+                                        </li>
+                                        <li>
+                                            <header>Parking:</header>
+                                            <figure>0</figure>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div><!-- /.property -->
+                    </div><!-- /.col-md-3 -->
+                
+                    <div class="col-md-3 col-sm-6" style="margin-bottom:30px;">
+                        <div class="property">
+                            <a href="view-property.php?pid=C00069">
+                                <div class="property-image">
+                                    <img alt="" src="pix/properties/C00069-15555869401s.jpg">
+                                </div>
+                                <div class="overlay">
+                                    <div class="info">
+                                                                                <div class="tag price">&#8358; 350,000,000</div>
+                                                                                <h3>4 Bedroom Penthouse for Sale, Bourdillon</h3>
+                                        <figure></figure>
+                                    </div>
+                                    <ul class="additional-info">
+                                        <li>
+                                            <header>Area:</header>
+                                            <figure>0m<sup>2</sup></figure>
+                                        </li>
+                                        <li>
+                                            <header>Beds:</header>
+                                            <figure>4</figure>
+                                        </li>
+                                        <li>
+                                            <header>Baths:</header>
+                                            <figure>4</figure>
+                                        </li>
+                                        <li>
+                                            <header>Parking:</header>
+                                            <figure>3</figure>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div><!-- /.property -->
+                    </div><!-- /.col-md-3 -->
+                
+                    <div class="col-md-3 col-sm-6" style="margin-bottom:30px;">
+                        <div class="property">
+                            <a href="view-property.php?pid=C00065">
+                                <div class="property-image">
+                                    <img alt="" src="pix/properties/C00065-15489515571s.JPG">
+                                </div>
+                                <div class="overlay">
+                                    <div class="info">
+                                                                                <div class="tag price">&#8358; 24,000,000</div>
+                                                                                <h3>4 Bedroom Apartment for Lease, Banana Island</h3>
+                                        <figure></figure>
+                                    </div>
+                                    <ul class="additional-info">
+                                        <li>
+                                            <header>Area:</header>
+                                            <figure>0m<sup>2</sup></figure>
+                                        </li>
+                                        <li>
+                                            <header>Beds:</header>
+                                            <figure>4</figure>
+                                        </li>
+                                        <li>
+                                            <header>Baths:</header>
+                                            <figure>4</figure>
+                                        </li>
+                                        <li>
+                                            <header>Parking:</header>
+                                            <figure>2</figure>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div><!-- /.property -->
+                    </div><!-- /.col-md-3 -->
+                
+                    <div class="col-md-3 col-sm-6" style="margin-bottom:30px;">
+                        <div class="property">
+                            <a href="view-property.php?pid=C00054">
+                                <div class="property-image">
+                                    <img alt="" src="pix/properties/C00054-15529267111s.jpg">
+                                </div>
+                                <div class="overlay">
+                                    <div class="info">
+                                                                                <div class="tag price">&#8358; 18,000,000</div>
+                                                                                <h3>3 Bedroom Apartment for Lease, Eko Atlantic</h3>
+                                        <figure></figure>
+                                    </div>
+                                    <ul class="additional-info">
+                                        <li>
+                                            <header>Area:</header>
+                                            <figure>0m<sup>2</sup></figure>
+                                        </li>
+                                        <li>
+                                            <header>Beds:</header>
+                                            <figure>3</figure>
+                                        </li>
+                                        <li>
+                                            <header>Baths:</header>
+                                            <figure>3</figure>
+                                        </li>
+                                        <li>
+                                            <header>Parking:</header>
+                                            <figure>2</figure>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div><!-- /.property -->
+                    </div><!-- /.col-md-3 -->
+                
+                    <div class="col-md-3 col-sm-6" style="margin-bottom:30px;">
+                        <div class="property">
+                            <a href="view-property.php?pid=C00053">
+                                <div class="property-image">
+                                    <img alt="" src="pix/properties/C00053-15483311111s.JPG">
+                                </div>
+                                <div class="overlay">
+                                    <div class="info">
+                                                                                <div class="tag price">&#8358; 100,000/Sq.</div>
+                                                                                <h3>Brand New Office Development, Adeola-Odeku VI</h3>
+                                        <figure></figure>
+                                    </div>
+                                    <ul class="additional-info">
+                                        <li>
+                                            <header>Area:</header>
+                                            <figure>2545m<sup>2</sup></figure>
+                                        </li>
+                                        <li>
+                                            <header>Beds:</header>
+                                            <figure>0</figure>
+                                        </li>
+                                        <li>
+                                            <header>Baths:</header>
+                                            <figure>0</figure>
+                                        </li>
+                                        <li>
+                                            <header>Parking:</header>
+                                            <figure>50</figure>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div><!-- /.property -->
+                    </div><!-- /.col-md-3 -->
+                
+                    <div class="col-md-3 col-sm-6" style="margin-bottom:30px;">
+                        <div class="property">
+                            <a href="view-property.php?pid=C00051">
+                                <div class="property-image">
+                                    <img alt="" src="pix/properties/C00051-15482635131s.JPG">
+                                </div>
+                                <div class="overlay">
+                                    <div class="info">
+                                                                                <div class="tag price">&#8358; 15,000,000</div>
+                                                                                <h3>3 Bedroom Apartment for Lease, Victoria Island</h3>
+                                        <figure></figure>
+                                    </div>
+                                    <ul class="additional-info">
+                                        <li>
+                                            <header>Area:</header>
+                                            <figure>0m<sup>2</sup></figure>
+                                        </li>
+                                        <li>
+                                            <header>Beds:</header>
+                                            <figure>3</figure>
+                                        </li>
+                                        <li>
+                                            <header>Baths:</header>
+                                            <figure>3</figure>
+                                        </li>
+                                        <li>
+                                            <header>Parking:</header>
+                                            <figure>2</figure>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div><!-- /.property -->
+                    </div><!-- /.col-md-3 -->
+                
+                    <div class="col-md-3 col-sm-6" style="margin-bottom:30px;">
+                        <div class="property">
+                            <a href="view-property.php?pid=C00049">
+                                <div class="property-image">
+                                    <img alt="" src="pix/properties/C00049-15482579091s.JPG">
+                                </div>
+                                <div class="overlay">
+                                    <div class="info">
+                                                                                <div class="tag price">&#8358; 14,000,000</div>
+                                                                                <h3>3 Bedroom Apartment for Lease, Old Ikoyi</h3>
+                                        <figure></figure>
+                                    </div>
+                                    <ul class="additional-info">
+                                        <li>
+                                            <header>Area:</header>
+                                            <figure>0m<sup>2</sup></figure>
+                                        </li>
+                                        <li>
+                                            <header>Beds:</header>
+                                            <figure>3</figure>
+                                        </li>
+                                        <li>
+                                            <header>Baths:</header>
+                                            <figure>3</figure>
+                                        </li>
+                                        <li>
+                                            <header>Parking:</header>
+                                            <figure>2</figure>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </a>
+                        </div><!-- /.property -->
+                    </div><!-- /.col-md-3 -->
+                    
+                </div><!-- /.row-->
+            </div><!-- /.container-->
+        </section><!-- /#new-properties-->
+        
+        
+        <aside id="advertising" class="block">
+            <div class="container">
+                <a href="submit.php">
+                    <div class="banner">
+                        <div class="wrapper">
+                            <span class="title">Do you want your property to be listed here?</span>
+                            <span class="submit">Submit it now! <i class="fa fa-plus-square"></i></span>
+                        </div>
+                    </div><!-- /.banner-->
+                </a>
+            </div>
+        </aside><!-- /#adveritsing-->
+        
+        
+<!--<section>
+      <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+                    <div class="item">
+            <img src="" alt="First slide">
+          </div>
+                  </div>
+        <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span></a><a class="right carousel-control" href="#carousel-example-generic" data-slide="next"><span class="glyphicon glyphicon-chevron-right">
+                        </span></a>
+      </div>
+      <div class="main-text">
+        <div class="col-sm-6 col-sm-offset-3 text-center" style="background: rgba(0, 0, 0, 0.3); padding:20px;">
+          <h1></h1>
+          <h3></h3>
+          <a href="view-blog.php?pid=" class="btn btn-default">View Detail</a>
+        </div>
+</div>-->
+        
+        
+        
+        <section id="testimonials" class="block">
+            <div class="container">
+                <!-- <header class="section-title"><h2 style="border-bottom:0px;">Motivational Quotes</h2></header> -->
+                	<div align="center">
+					                     	<div class="quotes col-sm-8 col-sm-offset-2">
+                            <p style="font-size:28px; font-width:bold;">To give real service, you must add something which cannot be bought or measured with money, and that is sincerity and integrity.</p>
+                            <p><i>- Douglas Adams</i></p>
+                        </div>
+                                         	<div class="quotes col-sm-8 col-sm-offset-2">
+                            <p style="font-size:28px; font-width:bold;">The more you know about your customers, the more you can provide to them information that is increasingly useful, relevant, and persuasive</p>
+                            <p><i>- Jay Baer</i></p>
+                        </div>
+                                         	<div class="quotes col-sm-8 col-sm-offset-2">
+                            <p style="font-size:28px; font-width:bold;">Real estate cannot be lost or stolen, nor can it be carried away. Purchased with common sense, paid for in full, and managed with reasonable care, it is about the safest investment in the world.</p>
+                            <p><i>- Franklin D. Roosevelt</i></p>
+                        </div>
+                                        </div>
+            </div><!-- /.container -->
+        </section><!-- /#testimonials -->
+        
+        
+        
+		<section id="partners" class="block">
+            <div class="container">
+                <header class="section-title"><h2 style="border-bottom:0px;">Some of Our Clients</h2></header>
+                                
+                <div id="logos">
+                  <ul>
+                                        <li><img src="pix/partners/1543790465.jpg" alt="Zenith Bank" width="150"></li>
+                                        <li><img src="pix/partners/1543790448.jpg" alt="Total" width="150"></li>
+                                        <li><img src="pix/partners/1543790429.jpg" alt="StillEarth" width="150"></li>
+                                        <li><img src="pix/partners/1543790414.jpg" alt="Promasidor" width="150"></li>
+                                        <li><img src="pix/partners/1543790382.jpg" alt="Petronas" width="150"></li>
+                                        <li><img src="pix/partners/1543790365.jpg" alt="Oando" width="150"></li>
+                                        <li><img src="pix/partners/1543790352.jpg" alt="Nestle" width="150"></li>
+                                        <li><img src="pix/partners/1543790337.jpg" alt="Leventis" width="150"></li>
+                                        <li><img src="pix/partners/1543790317.jpg" alt="IHS" width="150"></li>
+                                        <li><img src="pix/partners/1543790302.jpg" alt="FMN" width="150"></li>
+                                        <li><img src="pix/partners/1543790287.jpg" alt="Elalan Group" width="150"></li>
+                                        <li><img src="pix/partners/1543790268.jpg" alt="Control Risks" width="150"></li>
+                                        <li><img src="pix/partners/1543790252.jpg" alt="Cadbury" width="150"></li>
+                                        <li><img src="pix/partners/1543790207.jpg" alt="African Capital Alliance" width="150"></li>
+                                        <li><img src="pix/partners/1543790175.jpg" alt="PGS" width="150"></li>
+                                        <li><img src="pix/partners/1543790161.jpg" alt="Mixta Africa" width="150"></li>
+                                      </ul>
+                </div>
+            </div><!-- /.container -->
+        </section><!-- /#partners -->
+    </div>
+    <!-- end Page Content -->
+    <!-- Page Footer -->
+        <footer id="page-footer">
+        <div class="inner">
+            <aside id="footer-main">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-3">
+                            <article>
+                                <a href="about-us.phpp"><img src="pix/logo2.png" alt="Cortts Ltd" width="100"></a>
+                                <p>
+                                <div><b><span style="\\\" font-weight:"="" bold;\\\"="">WHAT MAKES US DIFFERENT?</span></b></div><div><span style="\\\" color:"="" rgb(66,="" 66,="" 6...                                </p>
+                                <hr>
+                                <a href="about-us.php" class="link-arrow">Read More</a>
+                            </article>
+                        </div><!-- /.col-sm-3 -->
+                        <div class="col-md-3 col-sm-3">
+                            <article>
+                                <h3>Recent Properties</h3>
+                                                                <div class="property small">
+                                    <a href="view-property.php?pid=C00073">
+                                        <div class="property-image">
+                                            <img alt="" src="pix/properties/C00073-15668389471s.jpg">
+                                        </div>
+                                    </a>
+                                    <div class="info">
+                                        <a href="view-property.php?pid=C00073"><h4>Seattle Residence</h4></a>
+                                        <div class=""><h4><b>Lease</b></h4></div>
+                                        
+                                    </div>
+                                </div><!-- /.property -->
+                                                               <div class="property small">
+                                    <a href="view-property.php?pid=C00069">
+                                        <div class="property-image">
+                                            <img alt="" src="pix/properties/C00069-15555869401s.jpg">
+                                        </div>
+                                    </a>
+                                    <div class="info">
+                                        <a href="view-property.php?pid=C00069"><h4>4 Bedroom Penthouse for Sale, Bourdillon</h4></a>
+                                        <div class=""><h4><b>Sale</b></h4></div>
+                                        
+                                    </div>
+                                </div><!-- /.property -->
+                                
+                            </article>
+                        </div><!-- /.col-sm-3 -->
+                        <div class="col-md-3 col-sm-3">
+                            <article>
+                                <h3>Contact</h3>
+                                <address>
+                                    <strong>Cortts Limited</strong><br>
+                                    <img src="pix/location.png" width="15" /> 7b Furo Ezimora Lekki Phase 1, Lagos 105102 Nigeria                                </address>
+                                
+                                <div style="margin-top:-15px;">
+                                <img src="pix/phone.png" width="15" /> +234 (01) 2770177-9, <br/>
+                                <img src="pix/phone2.png" /> +2348099934602<br/>
+                                <img src="pix/phone2.png" /> +2347017045620<br/>
+                                <img src="pix/phone2.png" /> <span>+2349090405650</span>
+                                </div>
+                                
+                                <div style="margin-top:10px;">
+                                <img src="pix/mail.png" width="15" /> <a href="mailto:info@cortts.com" style="color:#666;">info@cortts.com</a>
+                                </div>
+                            </article>
+                        </div><!-- /.col-sm-3 -->
+                        <div class="col-md-3 col-sm-3">
+                            <article>
+                                <h3>Useful Links</h3>
+                                <ul class="list-unstyled list-links">
+                                    <li><a href="properties.php">All Properties</a></li>
+                                    <li><a href="pages.php?p=privacy-policy">Privacy Policy</a></li>
+                                    <li><a href="pages.php?p=terms-and-conditions">Terms and Conditions</a></li>
+                                </ul>
+                                
+                                                                <div class="socials" style="margin-left:-12px;">
+                                                                <a href="https://www.facebook.com/corttslimited" target="_blank" class="link facebook"><img src="pix/icons/facebook.png"></a>
+                                                                
+                                                                <a href="https://www.twitter.com/corttsltd" target="_blank" class="link twitter"><img src="pix/icons/twitter.png"></a>
+                                                                
+                                                                <a href="https://https://www.linkedin.com/company/cortts-limited" target="_blank" class="link linkedin"><img src="pix/icons/linkedin.png"></a>
+                                                                
+                                                                <a href="https://www.instagram.com/corttsltd" target="_blank" class="link instagram"><img src="pix/icons/instagram.png"></a>
+                                                                
+                                                                <a href="https://www.youtube.com/user/corttsng" target="_blank" class="link youtube"><img src="pix/icons/youtube.png"></a>
+                                                                
+                                </div>
+                                
+                            </article>
+                        </div><!-- /.col-sm-3 -->
+                    </div><!-- /.row -->
+                </div><!-- /.container -->
+            </aside><!-- /#footer-main -->
+            <aside id="footer-thumbnails" class="footer-thumbnails"></aside><!-- /#footer-thumbnails -->
+            <aside id="footer-copyright">
+                <div class="container">
+                    <span>© 2020 - CORTTS LIMITED. All Rights Reserved.</span>
+                    <span class="pull-right"><a href="#page-top" class="roll">Go to top</a></span>
+                </div>
+            </aside>
+        </div><!-- /.inner -->
+    </footer>
+    <!-- end Page Footer -->
+</div>
+
+<div id="overlay"></div>
+<!--
+<script type="text/javascript" src="assets/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+<script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap-select.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="assets/js/icheck.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.vanillabox-0.1.5.min.js"></script>
+<script type="text/javascript" src="assets/js/retina-1.1.0.min.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>
+<!--[if gt IE 8]>
+<script type="text/javascript" src="assets/js/ie.js"></script>
+<![endif]
+
+<script>
+    $(window).load(function(){
+        initializeOwl(false);
+    });
+</script>
+
+
+
+<script type="text/javascript" src="assets/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="assets/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+<script type="text/javascript" src="assets/js/markerwithlabel_packed.js"></script>
+<script type="text/javascript" src="assets/js/infobox.js"></script>
+<script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap-select.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="assets/js/icheck.min.js"></script>
+<script type="text/javascript" src="assets/js/retina-1.1.0.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.raty.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="assets/js/jshashtable-2.1_src.js"></script>
+<script type="text/javascript" src="assets/js/jquery.numberformatter-1.2.3.js"></script>
+<script type="text/javascript" src="assets/js/tmpl.js"></script>
+<script type="text/javascript" src="assets/js/jquery.dependClass-0.1.js"></script>
+<script type="text/javascript" src="assets/js/draggable-0.1.js"></script>
+<script type="text/javascript" src="assets/js/jquery.slider.js"></script>
+<script type="text/javascript" src="assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="assets/js/custom-map.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>
+<!--[if gt IE 8]>
+<script type="text/javascript" src="assets/js/ie.js"></script>
+<![endif]
+
+<script type="text/javascript">
+    var propertyId = 0;
+    google.maps.event.addDomListener(window, 'load', initMap(propertyId));
+    $(window).load(function(){
+        initializeOwl(false);
+    });
+</script> -->
+
+<!-- STICKY MENU -->
+<script>
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the header
+var header = document.getElementById("myHeader");
+
+// Get the offset position of the navbar
+var sticky = header.offsetTop;
+
+// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+</script>
+
+<!-- STICKY MENU ENDS -->
+
+<!--Tawk chart starts-->
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5cb0a47bc1fe2560f3fe8f4f/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+<!--Tawk chart ends-->
+
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<!--<script type="text/javascript">
+window.__lc = window.__lc || {};
+window.__lc.license = 10852252;
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+<noscript>
+<a href="https://www.livechatinc.com/chat-with/10852252/" rel="nofollow">Chat with us</a>,
+powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+</noscript>-->
+<!-- End of LiveChat code -->
+
+<!--code for cookies-->
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#29333d"
+    },
+    "button": {
+      "background": "#85c226"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "We use cookies to ensure you get the best user experience on our website. By continuing to use this site, you agree to the use of these cookies.",
+    "dismiss": "Agree",
+    "link": "Find out",
+    "href": "/policy"
+  }
+});
+</script>
+<!--code ends-->    <!-- end Page Footer -->
+</div>
+
+<div id="overlay"></div>
+
+
+<script type="text/javascript" src="assets/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+<script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap-select.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="assets/js/icheck.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.vanillabox-0.1.5.min.js"></script>
+<script type="text/javascript" src="assets/js/retina-1.1.0.min.js"></script>
+<script type="text/javascript" src="assets/js/jshashtable-2.1_src.js"></script>
+<script type="text/javascript" src="assets/js/jquery.numberformatter-1.2.3.js"></script>
+<script type="text/javascript" src="assets/js/tmpl.js"></script>
+<script type="text/javascript" src="assets/js/jquery.dependClass-0.1.js"></script>
+<script type="text/javascript" src="assets/js/draggable-0.1.js"></script>
+<script type="text/javascript" src="assets/js/jquery.slider.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>
+<!--[if gt IE 8]>
+<script type="text/javascript" src="assets/js/ie.js"></script>
+<![endif]-->
+<script>
+    $(window).load(function(){
+        initializeOwl(false);
+    });
+</script>
+
+
+<!--MOTIVATIONAL QUOTE SLIDE -->
+<script>
+(function() {
+
+  var quotes = $(".quotes");
+  var quoteIndex = -1;
+
+  function showNextQuote() {
+    ++quoteIndex;
+    quotes.eq(quoteIndex % quotes.length)
+      .fadeIn(500)
+      .delay(5000)
+      .fadeOut(500, showNextQuote);
+  }
+
+  showNextQuote();
+
+})();
+</script>
+<!--MOTIVATIONAL QUOTE SLIDE -->
+
+
+<!-- LOGO SLODER -->
+<script>
+/*
+
+Suga Slider
+
+Usage ---------
+
+$(window).load(function(){
+  $('#logos').suga({
+    'transitionSpeed': 2000,
+    'snap': false
+  });
+});
+
+The markup should resemble the markup here
+
+*/
+
+$.fn.suga = function(options) {
+  var settings = $.extend({
+      'transitionSpeed': 3000,
+      'snap': false
+  }, options);
+
+  var $this = $(this);
+
+  // add plugin specific classes
+  $this.addClass('suga-slider-wrap');
+  $this.children('ul').addClass('suga-slider-group');
+  $this.find('li').addClass('suga-slide');  
+
+  // caching $$$
+  var $slide = $('.suga-slide'),
+			$firstEl = $('.suga-slide:first'),
+      $group = $('.suga-slider-group'),
+      $wrap = $('.suga-slider-wrap');
+
+  var slideWidth = $slide.outerWidth(),
+  		slideHeight = $('.suga-slide').height(),
+      slideCount = $slide.length,
+      totalWidth = slideWidth * slideCount;
+
+  // set width on group element
+  $group.width(totalWidth);
+  $wrap.height(slideHeight);
+  $wrap.wrap('<div class="suga-container"></div>');
+
+  // add first class at start
+  if (!$group.find($firstEl).hasClass("suga-first")) {
+    $group.find($firstEl).addClass("suga-first");
+  }
+
+  // lets move baby
+  var transitionSnap = function() {
+    var $firstEl = $group.find('.suga-first').html();
+    
+    $group.find('.suga-first').animate({
+      'margin-left': '-' + slideWidth + 'px'
+    }, function(){
+     $group.append('<li class="suga-slide">' + $firstEl + '</li>');
+     $(this).remove(); 
+     $group.find('li:first').addClass("suga-first");
+      
+    });  
+  };
+
+  var transitionScroll = function() {
+     var $firstEl = $group.find('.suga-first').html();
+
+    $group.find('.suga-first').animate({
+      'margin-left': '-' + slideWidth + 'px'
+    }, settings.transitionSpeed, 'linear', function(){
+     $group.append('<li class="suga-slide">' + $firstEl + '</li>');
+     $(this).remove(); 
+     $group.find('li:first').addClass("suga-first");
+     transitionScroll();
+    });       
+  };
+
+  if (settings.snap) {
+    window.setInterval(transitionSnap, settings.transitionSpeed);  
+  } else {
+    transitionScroll();
+  }
+}
+
+$(window).load(function(){
+  $('#logos').suga({
+    'transitionSpeed': 2000,
+    'snap': true
+  });
+});
+
+</script>
+<!-- LOGO SLODER ENDS -->
+</body>
+</html>

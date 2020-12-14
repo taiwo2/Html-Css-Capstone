@@ -1,5 +1,5 @@
 .house-info1 {
-  background-color: lightgreen;
+  background-color: #d35266;
 }
 .house-info1 img {
   height: 150px;
@@ -15,7 +15,7 @@
 .find {
   padding: 7px;
   margin-left: 120px;
-  background-color: #d35266;
+  background-color: whitesmoke;
   font-size: 20px;
   font-weight: 500;
   border-radius: 3px;
@@ -25,11 +25,34 @@
   .house-info1 {
     display: flex;
     height: 100%;
+    padding: 20px;
   }
 
   .house-info1 img {
     max-width: 300px;
-    height: 400px;
+    height: 300px;
     border-radius: 100%;
+  }
+
+  .info2 {
+    background-color: #d4d4d4;
+  }
+
+  .info3 {
+    background-color: rgba(34, 0, 255, 0.576);
+  }
+
+  .info-line {
+    font-size: 20px;
+    padding: 15px;
+    font-weight: 600;
+  }
+
+  .info-line p {
+    margin-top: 3rem;
+  }
+
+  .find {
+    margin-top: 2rem;
   }
 }

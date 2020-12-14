@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+.green {color:#090;}
+.red {color:#F00;}
+.sfont{font-size:10px;}
+.mfont{font-size:12px;}
+/*.dropspace{margin:5px;}*/
+
+/*		FOR EQUARE HIGHT FOR THE PROPERTIES DISPLAY		*/
+.row.is-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.is-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+
+/*
+* And with max cross-browser enabled.
+* Nobody should ever write this by hand. 
+* Use a preprocesser with autoprefixing.
+*/
+.row.is-flex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -o-box;
+    display: -o-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.row.is-flex > [class*='col-'] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -o-box;
+    display: -o-flex;
+	display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+/*		FOR EQUARE HIGHT FOR THE PROPERTIES DISPLAY ENDS	*/
+
+#input2 {
+	width:100%;
+	padding:12px;
+	background:#fff;
+	border:1px solid #E0E0E0; 
+	border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-ms-border-radius:5px;
+	
+	box-shadow: inset 0px 0px 0px 0px;
+	-o-box-shadow: inset 0px 0px 0px 0px;
+	-moz-box-shadow: inset 0px 0px 0px 0px;
+	-webkit-box-shadow: inset 0px 0px 0px 0px;
+	-ms-box-shadow: inset 0px 0px 0px 0px;
+	
+	box-shadow: outset 0px 0px 0px 0px;
+	-o-box-shadow: outset 0px 0px 0px 0px;
+	-moz-box-shadow: outset 0px 0px 0px 0px;
+	-ms-box-shadow: outset 0px 0px 0px 0px;
+	-webkit-box-shadow: outset 0px 0px 0px 0px;
+}
+
+#input2 {
+	width:100%;
+	padding:12px;
+	background:#fff;
+	border:1px solid #E0E0E0; 
+	border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-ms-border-radius:5px;
+	
+	box-shadow: inset 0px 0px 0px 0px;
+	-o-box-shadow: inset 0px 0px 0px 0px;
+	-moz-box-shadow: inset 0px 0px 0px 0px;
+	-webkit-box-shadow: inset 0px 0px 0px 0px;
+	-ms-box-shadow: inset 0px 0px 0px 0px;
+	
+	box-shadow: outset 0px 0px 0px 0px;
+	-o-box-shadow: outset 0px 0px 0px 0px;
+	-moz-box-shadow: outset 0px 0px 0px 0px;
+	-ms-box-shadow: outset 0px 0px 0px 0px;
+	-webkit-box-shadow: outset 0px 0px 0px 0px;
+}
+
+
+.radius5 {
+	border:1px solid #E0E0E0; 
+	border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-ms-border-radius:5px;
+}
