@@ -43,7 +43,17 @@ header {
 .note {
   text-align: center;
   color: white;
-  padding-top: 15px;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.key {
+  text-align: center;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 500;
 }
 
 .form {
@@ -71,7 +81,7 @@ header {
 
 .form-input {
   width: 80%;
-  margin-left: 32px;
+
   box-sizing: border-box;
   border-radius: 6px;
   font-weight: 600;
@@ -82,9 +92,17 @@ header {
   margin: 6rem auto auto 5.2rem;
 }
 
-@media (min-width: 568px) {
+@media (min-width: 548px) {
   .head {
     margin-left: 80px;
+  }
+
+  .int-work {
+    margin: 6rem auto auto 7rem;
+  }
+
+  .ign {
+    margin-left: 20rem;
   }
 }
 

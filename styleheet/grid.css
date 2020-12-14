@@ -59,6 +59,8 @@
 
 footer {
   background-color: black;
+  position: relative;
+  padding: 6px;
 }
 
 .foot {
@@ -104,10 +106,43 @@ footer {
   border-radius: 5px;
 }
 
+.ign {
+  width: 20px;
+  height: 25px;
+  position: absolute;
+  margin-left: 15.8rem;
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 0;
+  background-color: #d4d4d4;
+  margin-top: 9px;
+  top: 0;
+
+  color: red;
+}
 @media (min-width: 768px) {
   .md-level {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+  }
+
+  .foot {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 0;
+  }
+
+  .ign {
+    margin-top: 6px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .ign {
+    margin-left: 31rem;
+    width: 30px;
+    height: 40px;
+    margin-top: 2px;
   }
 }
