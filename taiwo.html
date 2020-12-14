@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="taiwo.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://g1.nyt.com/fonts/css/web-fonts.5810def60210a2fa7d0848f37e3fa048bb6147b1.css" />
+    <script src="https://use.fontawesome.com/93b7dd2125.js"></script>
+    <script src="https://kit.fontawesome.com/7787f36583.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <header class="bg-gray-">
+      <nav class="flex head">
+        <a href="#" class="logo">
+          <img src="./assets/logo-on-dark.svg" alt="Logo" />
+        </a>
+
+        <div class="nav-bar">
+          <a href="#"> <i class="fas fa-search ml-3" aria-hidden="true"></i><span class="none">Search</span></a>
+          <a href="#"> <i class="fa fa-user fa-1x ml-3" aria-hidden="true"></i> <span class="none">User</span></a>
+          <a href="#"> <i class="fas fa-rss ml-3" aria-hidden="true"></i> <span class="none">Blog</span> </a>
+          <input type="checkbox" id="toggle" class="header__toggle" />
+
+          <label for="toggle" class="header__burger ml-3">
+            <div class="header__burger-bar"></div>
+            <div class="header__burger-bar"></div>
+            <div class="header__burger-bar"></div>
+          </label>
+          <span class="none">More</span>
+        </div>
+      </nav>
+      <section class="rent">
+        <div class="">
+          <div>
+            <p class="note">Buying and selling couldn't be simpler than this.</p>
+          </div>
+          <form action="" class="form">
+            <!-- <div class="f">
+              <select class="">
+                <option>House</option>
+                <option selected>Apartment</option>
+                <option>Loft house</option>
+                <option>Town house</option>
+              </select>
+            </div> -->
+
+            <p class="note">Search by kEYWORDS</p>
+            <div class="md-flex">
+              <input type="text" placeholder="Search location..." class="form-input" />
+
+              <button type="submit" class="form-input int">Search</button>
+            </div>
+          </form>
+          <div class="int-work">
+            <button type="button" class="int-work">How its Works</button>
+          </div>
+        </div>
+      </section>
+    </header>
+    <!-- hero -->
+
+    <!-- <section class="s">
+      <div class="wp-section" style="background: none">
+        <div class="container" style="background: none">
+          <div class="row hidden-ma">
+            <div class="col-md-12 text-center">
+              <h1 class="c-white strong-400">Find your new property</h1>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+              <a id="sPanelTop" name="searchPanelTop"></a>
+              <div class="">
+                <div class="">
+                  <form name="search_jsForm" id="search_jsForm" action="/search" method="post" class="search_jsForm em-background">
+                    <input type="hidden" name="_token" value="y6MtNyv84EYD1H27DOCyqhZJjzr7F6HeEIMWsKHv" />
+                    <div class="row">
+                      <div class="col-md-offset-1 col-md-10 col-sm-12">
+                        <div class="form-group">
+                          <ul class="cat" id="">
+                            <li id="li-cid-for-sale" class="active">
+                              <a href="for-sale" class="" id="">
+                                <input name="cid" checked="checked" id="cid-for-sale" type="radio" value="2" />
+                                <label for="cid-for-sale" class="" id="">Buy</label>
+                              </a>
+                            </li>
+                            <li id="li-cid-for-rent" class="mid">
+                              <a href="for-rent" class="" id="">
+                                <input name="cid" id="cid-for-rent" type="radio" value="1" />
+                                <label for="cid-for-rent" class="" id="">Rent</label>
+                              </a>
+                            </li>
+                            <li id="li-cid-short-let">
+                              <a href="short-let" class="" id="">
+                                <input name="cid" id="cid-short-let" type="radio" value="4" />
+                                <label for="cid-short-let" class="" id="">Short Let</label>
+                              </a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div> -->
+    <!-- <div class="row">
+                      <div class="col-md-offset-1 col-md-10 col-sm-12 col-xs-12">
+                        <div class="form-group">
+                          <div class="easy-autocomplete">
+                            <input id="propertyLocation" name="propertyLocation" placeholder="Enter a state, locality or area" data-results="all" type="text" class="form-control" autocomplete="off" />
+                            <div class="easy-autocomplete-container" id="eac-container-propertyLocation"><ul></ul></div>
+                          </div>
+                          <em for="propertyLocation" class="invalid hidden" id="no-location-found">Location not found</em>
+                          <input type="hidden" name="sid" id="sid" />
+                          <input type="hidden" name="lid" id="lid" />
+                          <input type="hidden" name="slid" id="slid" />
+                          <input type="hidden" name="n" id="n" />
+                          <input type="hidden" name="selectedLoc" id="selectedLoc" />
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-offset-1 col-md-10 col-sm-12 col-xs-12 filter-panel">
+                        <div class="row">
+                          <div class="col-sm-3 col-xs-6">
+                            <div class="form-group">
+                              <label>Type</label>
+                              <select name="tid" id="tid" class="form-control">
+                                <option value="0" selected="selected">All Types</option>
+                                <option value="1">Flat</option>
+                                <option value="2">House</option>
+                                <option value="5">Land</option>
+                                <option value="3">Commercial Property</option>
+                              </select>
+                            </div>
+                          </div>
+                          <div class="col-sm-3 col-xs-6">
+                            <div class="form-group">
+                              <label>Bedrooms</label>
+                              <select name="bedrooms" id="bedrooms" class="form-control">
+                                <option value="0" selected="selected">Any</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                                <option value="6">6+</option>
+                              </select>
+                            </div>
+                          </div>
+                          <div class="col-sm-3 col-xs-6">
+                            <div class="form-group">
+                              <label>Min price</label>
+                              <select name="minprice" id="minprice" class="form-control">
+                                <option value="0" selected="selected">No Min</option>
+                                <option value="100000">₦ 100,000</option>
+                                <option value="200000">₦ 200,000</option>
+                                <option value="250000">₦ 250,000</option>
+                                <option value="300000">₦ 300,000</option>
+                                <option value="400000">₦ 400,000</option>
+                                <option value="500000">₦ 500,000</option>
+                                <option value="600000">₦ 600,000</option>
+                                <option value="700000">₦ 700,000</option>
+                                <option value="750000">₦ 750,000</option>
+                                <option value="800000">₦ 800,000</option>
+                                <option value="900000">₦ 900,000</option>
+                                <option value="1000000">₦ 1 Million</option>
+                                <option value="2000000">₦ 2 Million</option>
+                                <option value="3000000">₦ 3 Million</option>
+                                <option value="5000000">₦ 5 Million</option>
+                                <option value="10000000">₦ 10 Million</option>
+                                <option value="20000000">₦ 20 Million</option>
+                                <option value="30000000">₦ 30 Million</option>
+                                <option value="40000000">₦ 40 Million</option>
+                                <option value="60000000">₦ 60 Million</option>
+                                <option value="80000000">₦ 80 Million</option>
+                                <option value="100000000">₦ 100 Million</option>
+                                <option value="150000000">₦ 150 Million</option>
+                                <option value="200000000">₦ 200 Million</option>
+                                <option value="250000000">₦ 250 Million</option>
+                                <option value="300000000">₦ 300 Million</option>
+                                <option value="400000000">₦ 400 Million</option>
+                                <option value="500000000">₦ 500 Million</option>
+                                <option value="600000000">₦ 600 Million</option>
+                                <option value="700000000">₦ 700 Million</option>
+                                <option value="800000000">₦ 800 Million</option>
+                                <option value="900000000">₦ 900 Million</option>
+                                <option value="1000000000">₦ 1 Billion</option>
+                                <option value="2000000000">₦ 2 Billion</option>
+                                <option value="5000000000">₦ 5 Billion</option>
+                                <option value="10000000000">₦ 10 Billion</option>
+                                <option value="20000000000">₦ 20 Billion</option>
+                                <option value="30000000000">₦ 30 Billion</option>
+                                <option value="40000000000">₦ 40 Billion</option>
+                                <option value="50000000000">₦ 50 Billion</option>
+                              </select>
+                            </div>
+                          </div>
+                          <div class="col-sm-3 col-xs-6">
+                            <div class="form-group">
+                              <label>Max price</label>
+                              <select name="maxprice" id="maxprice" class="form-control">
+                                <option value="0" selected="selected">No Max</option>
+                                <option value="100000">₦ 100,000</option>
+                                <option value="200000">₦ 200,000</option>
+                                <option value="250000">₦ 250,000</option>
+                                <option value="300000">₦ 300,000</option>
+                                <option value="400000">₦ 400,000</option>
+                                <option value="500000">₦ 500,000</option>
+                                <option value="600000">₦ 600,000</option>
+                                <option value="700000">₦ 700,000</option>
+                                <option value="750000">₦ 750,000</option>
+                                <option value="800000">₦ 800,000</option>
+                                <option value="900000">₦ 900,000</option>
+                                <option value="1000000">₦ 1 Million</option>
+                                <option value="2000000">₦ 2 Million</option>
+                                <option value="3000000">₦ 3 Million</option>
+                                <option value="5000000">₦ 5 Million</option>
+                                <option value="10000000">₦ 10 Million</option>
+                                <option value="20000000">₦ 20 Million</option>
+                                <option value="30000000">₦ 30 Million</option>
+                                <option value="40000000">₦ 40 Million</option>
+                                <option value="60000000">₦ 60 Million</option>
+                                <option value="80000000">₦ 80 Million</option>
+                                <option value="100000000">₦ 100 Million</option>
+                                <option value="150000000">₦ 150 Million</option>
+                                <option value="200000000">₦ 200 Million</option>
+                                <option value="250000000">₦ 250 Million</option>
+                                <option value="300000000">₦ 300 Million</option>
+                                <option value="400000000">₦ 400 Million</option>
+                                <option value="500000000">₦ 500 Million</option>
+                                <option value="600000000">₦ 600 Million</option>
+                                <option value="700000000">₦ 700 Million</option>
+                                <option value="800000000">₦ 800 Million</option>
+                                <option value="900000000">₦ 900 Million</option>
+                                <option value="1000000000">₦ 1 Billion</option>
+                                <option value="2000000000">₦ 2 Billion</option>
+                                <option value="5000000000">₦ 5 Billion</option>
+                                <option value="10000000000">₦ 10 Billion</option>
+                                <option value="20000000000">₦ 20 Billion</option>
+                                <option value="30000000000">₦ 30 Billion</option>
+                                <option value="40000000000">₦ 40 Billion</option>
+                                <option value="50000000000">₦ 50 Billion</option>
+                              </select>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-offset-1 col-md-10 col-sm-12 filter-panel">
+                        <div class="row">
+                          <div class="col-sm-12">
+                            <div class="panel-group voffset-bottom-0">
+                              <div class="panel panel-default">
+                                <div id="advanced-search" class="panel-collapse collapse">
+                                  <div class="panel-body">
+                                    <div class="row">
+                                      <div class="col-sm-3 col-xs-6">
+                                        <div class="form-group">
+                                          <label>Furnishing</label>
+                                          <select name="furnished" id="furnished" class="form-control">
+                                            <option value="0" selected="selected">Any</option>
+                                            <option value="1">Furnished</option>
+                                            <option value="2">Unfurnished</option>
+                                          </select>
+                                        </div>
+                                      </div>
+                                      <div class="col-sm-3 col-xs-6">
+                                        <div class="form-group">
+                                          <label>Serviced</label>
+                                          <select name="serviced" id="serviced" class="form-control">
+                                            <option value="0" selected="selected">Any</option>
+                                            <option value="1">Serviced</option>
+                                          </select>
+                                        </div>
+                                      </div>
+                                      <div class="col-sm-3 col-xs-6">
+                                        <div class="form-group">
+                                          <label>Shared</label>
+                                          <select name="shared" id="shared" class="form-control">
+                                            <option value="0" selected="selected">Any</option>
+                                            <option value="1">Shared</option>
+                                          </select>
+                                        </div>
+                                      </div>
+                                      <div class="col-sm-3 col-xs-6">
+                                        <div class="form-group">
+                                          <label>Added to site</label>
+                                          <select name="added" id="added" class="form-control">
+                                            <option value="0" selected="selected">Anytime</option>
+                                            <option value="1">Last 24 hours</option>
+                                            <option value="3">Last 3 days</option>
+                                            <option value="7">Last 7 days</option>
+                                            <option value="14">Last 14 days</option>
+                                            <option value="30">Last 30 days</option>
+                                          </select>
+                                        </div>
+                                      </div>
+                                      <div class="col-sm-3 col-xs-6">
+                                        <div class="form-group">
+                                          <label>Keywords</label>
+                                          <input name="keywords" id="keywords" class="form-control" placeholder="e.g. 'pool' or 'jacuzzi'" autocomplete="off" />
+                                        </div>
+                                      </div>
+                                      <div class="col-sm-3 col-xs-6">
+                                        <div class="form-group">
+                                          <label>Property Ref.</label>
+                                          <input name="ref" id="ref" class="form-control" placeholder="e.g. 83256" type="number" min="0" autocomplete="off" />
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="panel-heading">
+                                  <div class="row">
+                                    <div class="col-sm-9 col-xs-12 hidden-xs">
+                                      <h4 class="panel-title">
+                                        <a data-toggle="collapse" data-parent="#accordionThree" href="#advanced-search" class="clearfix collapsed">
+                                          More search options &nbsp;<span class="fal fa-angle-up"></span>
+                                        </a>
+                                      </h4>
+                                    </div>
+                                    <div class="col-sm-9 col-xs-12 hidden-sm hidden-md hidden-lg voffset-bottom-10">
+                                      <h4 class="panel-title text-center">
+                                        <a data-toggle="collapse" data-parent="#accordionThree" href="#advanced-search" class="clearfix collapsed">
+                                          More search options &nbsp;<span class="fal fa-angle-up"></span>
+                                        </a>
+                                      </h4>
+                                    </div>
+                                    <div class="clearfix hidden-lg hidden-md hidden-sm"></div>
+                                    <div class="col-sm-3">
+                                      <button type="submit" class="btn btn-lg btn-base btn-block">
+                                        <span>Search</span>
+                                      </button>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> -->
+  </body>
+</html>
