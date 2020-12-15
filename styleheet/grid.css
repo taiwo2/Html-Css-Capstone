@@ -134,16 +134,16 @@ footer {
   }
 
   .ign {
-    margin-top: 6px;
-    margin-left: 23.2rem;
+    margin-top: 1.1rem;
+    margin-left: 22.28rem;
   }
 }
 
 @media (min-width: 1024px) {
   .ign {
-    margin-left: 31rem;
+    margin-left: 30rem;
     width: 30px;
     height: 40px;
-    margin-top: 2px;
+    margin-top: 11px;
   }
 }

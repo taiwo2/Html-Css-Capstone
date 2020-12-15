@@ -12,6 +12,11 @@ header {
   /* background-color: #d4d4d8; */
 }
 
+.head img {
+  width: 90px;
+  padding: 10px;
+}
+
 .none {
   display: none;
 }
@@ -139,8 +144,13 @@ header {
   .rent {
     padding: 0 0 2rem 0;
   }
+
   .form-input {
     max-width: 50%;
+  }
+
+  .footer {
+    padding: 20px;
   }
 
   .int {
