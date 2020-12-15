@@ -31,6 +31,7 @@ header {
   text-decoration: none;
   color: inherit;
 }
+
 .rent {
   background-image: url(../images/night-bg.jpg);
   background-position: center;
@@ -79,6 +80,7 @@ header {
 .signup {
   background-color: #d35266;
 }
+
 .signin {
   border-style: none;
   background-color: white;
@@ -167,6 +169,7 @@ header {
   color: #d35266;
   font-weight: 800;
 }
+
 /* .form {
   display: block;
   background-color: lavender;
@@ -182,16 +185,15 @@ header {
   right: 0;
   left: 0;
 } */
+
 .int {
   background-color: #d35266;
   text-align: center;
   padding: 2px;
-  /* margin-top: 3px; */
 }
 
 .form-input {
   width: 80%;
-
   box-sizing: border-box;
   border-radius: 6px;
   font-weight: 600;
@@ -218,6 +220,7 @@ header {
   white-space: nowrap;
   border-width: 0;
 }
+
 .header__toggle:checked ~ .mobile-nav {
   display: block;
 }
@@ -252,7 +255,6 @@ footer {
 
 .foot li {
   text-transform: uppercase;
-  margin-right: px;
   padding: 4px;
 }
 
@@ -423,7 +425,7 @@ footer {
   .form {
     height: 150px;
     width: 50%;
-    padding-top: 0px;
+    padding-top: 0;
   }
 
   .int-work {
@@ -437,6 +439,7 @@ footer {
   .int {
     background-color: #d35266;
   }
+
   .form {
     width: 70%;
   }
@@ -445,6 +448,7 @@ footer {
     max-width: 100%;
     padding-left: 6px;
   }
+
   .md-flex {
     padding-left: 10px;
   }
@@ -474,6 +478,7 @@ footer {
   .sub {
     margin-left: 44.5rem;
   }
+
   .bio-info {
     margin-top: 50px;
   }
@@ -509,6 +514,7 @@ footer {
   margin: 3px;
   padding: 18px;
 }
+
 .para {
   text-align: center;
   font-size: 17px;

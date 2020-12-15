@@ -73,7 +73,6 @@ header {
   border-radius: 1.5rem;
   position: absolute;
   text-align: center;
-
   right: 0;
   left: 0;
 }
@@ -87,7 +86,6 @@ header {
 
 .form-input {
   width: 80%;
-
   box-sizing: border-box;
   border-radius: 6px;
   font-weight: 600;
@@ -178,6 +176,7 @@ header {
   .int {
     background-color: #d35266;
   }
+
   .form {
     width: 70%;
   }
@@ -215,6 +214,7 @@ header {
   margin: 3px;
   padding: 18px;
 }
+
 .para {
   text-align: center;
   font-size: 17px;
