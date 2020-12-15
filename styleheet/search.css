@@ -183,10 +183,6 @@ footer {
   border: 1px solid white;
 }
 
-.int-work {
-  margin: 6rem auto auto 5.2rem;
-}
-
 .int {
   background-color: #d35266;
   text-align: center;
@@ -357,6 +353,7 @@ footer {
   .int {
     background-color: #d35266;
   }
+
   .form {
     font-weight: 700;
   }
