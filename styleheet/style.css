@@ -89,7 +89,7 @@ header {
 
 .int a {
   text-decoration: none;
-  color: white;
+  text-decoration-color: rgb(148, 137, 137);
 }
 
 .form-input {
@@ -98,10 +98,6 @@ header {
   border-radius: 6px;
   font-weight: 600;
   font-size: 20px;
-}
-
-.md-flex input a {
-  color: white;
 }
 
 .int-work {
@@ -115,6 +111,10 @@ header {
 
   .int-work {
     margin: 6rem auto auto 7rem;
+  }
+
+  .se {
+    color: white;
   }
 
   .ign {
