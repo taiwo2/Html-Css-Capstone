@@ -20,6 +20,10 @@ header {
   display: none;
 }
 
+.more {
+  color: white;
+}
+
 .logo {
   margin-left: 30%;
 }
@@ -36,7 +40,7 @@ header {
 
 .nav-bar a {
   text-decoration: none;
-  color: inherit;
+  color: white;
 }
 
 .rent {
@@ -81,6 +85,11 @@ header {
   background-color: #d35266;
   text-align: center;
   padding: 2px;
+}
+
+.int a {
+  text-decoration: none;
+  color: white;
 }
 
 .form-input {
@@ -136,6 +145,7 @@ header {
 
   .md-flex {
     display: flex;
+    margin: 20px;
   }
 
   .rent {
@@ -169,6 +179,10 @@ header {
     margin: 7rem auto auto 9rem;
     width: 9rem;
   }
+
+  .pink {
+    color: #d35266;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -198,6 +212,10 @@ header {
     grid-template-columns: 1fr 1fr;
     gap: 4rem;
   }
+
+  .house-info1 {
+    display: flex;
+  }
 }
 
 .main-content img {
@@ -223,36 +241,6 @@ header {
   padding: 0 20px 0 20px;
 }
 
-/*
-.menu-icon {
-  margin: 0.2rem 0.5rem;
-}
-
-.menu-bar {
-  width: 24px;
-  height: 4px;
-  background-color: #fb9a94;
-}
-
-.menu-bar:nth-child(2) {
-  margin: 4px 0;
-} */
-
-/* @media (min-width: 481px) {
-  .login a {
-    font-size: 1.125rem;
-  }
-
-  .menu-icon {
-    margin: 0.9rem 1.5rem;
-  }
-
-  .menu-bar {
-    width: 30px;
-    height: 4px;
-  }
-} */
-
 .header__burger-bar {
   display: flex;
   width: 1.2em;
@@ -273,33 +261,3 @@ header {
   white-space: nowrap;
   border-width: 0;
 }
-
-/*
-.header__toggle:checked ~ .mobile-nav {
-  display: block;
-}
-
-.header__toggle:checked + .header__burger > div {
-  -webkit-transition: all 0.4s ease;
-  transition: all 0.4s ease;
-}
-
-.header__toggle:checked + .header__burger > div:nth-child(1) {
-  -webkit-transform: rotate(-45deg) translate(-9px, 2px);
-  transform: rotate(-45deg) translate(-9px, 2px);
-}
-
-.header__toggle:checked + .header__burger > div:nth-child(2) {
-  opacity: 0;
-  width: 0;
-}
-
-.header__toggle:checked + .header__burger > div:nth-last-child(1) {
-  -webkit-transform: rotate(45deg) translate(-9px, -3px);
-  transform: rotate(45deg) translate(-9px, -3px);
-}
-
-.header__toggle:not(:checked) + .header__burger > div {
-  -webkit-transition: all 0.4s ease;
-  transition: all 0.4s ease;
-} */

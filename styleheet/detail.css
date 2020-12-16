@@ -29,7 +29,11 @@ header {
 
 .nav-bar a {
   text-decoration: none;
-  color: inherit;
+  color: white;
+}
+
+.more {
+  color: white;
 }
 
 .rent {
@@ -170,22 +174,6 @@ header {
   font-weight: 800;
 }
 
-/* .form {
-  display: block;
-  background-color: lavender;
-  width: 70%;
-  height: 150px;
-  padding: 1px;
-  align-content: center;
-  margin: auto;
-  border-radius: 1.5rem;
-  position: absolute;
-  text-align: center;
-
-  right: 0;
-  left: 0;
-} */
-
 .int {
   background-color: #d35266;
   text-align: center;
@@ -233,6 +221,11 @@ header {
 .header__toggle:checked + .header__burger > div:nth-child(1) {
   -webkit-transform: rotate(-45deg) translate(-9px, 2px);
   transform: rotate(-45deg) translate(-9px, 2px);
+}
+
+iframe {
+  width: 100%;
+  height: '600';
 }
 
 footer {
@@ -288,6 +281,10 @@ footer {
 
 .int-work {
   margin: 6rem auto auto 5.2rem;
+}
+
+.pink {
+  color: #d35266;
 }
 
 @media (min-width: 768px) {
@@ -364,7 +361,7 @@ footer {
   }
 
   .space1 li {
-    margin-left: 3px;
+    margin-left: auto;
   }
 
   .rent {
@@ -477,6 +474,10 @@ footer {
 
   .sub {
     margin-left: 44.5rem;
+  }
+
+  .space1 {
+    margin-left: 16rem;
   }
 
   .bio-info {
