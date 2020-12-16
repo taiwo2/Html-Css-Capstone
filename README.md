@@ -13,13 +13,9 @@ Additional description about the project and its features.
 - Font Awesome icon
 - Media Queries
 
-## Original Website
-
-[Original website link](https://www.newsweek.com/)
-
 ## Live Demo
 
-[Live Demo Link](https://taiwo2.github.io/NewsWeek-Clone/.)
+[Live Demo Link](https://taiwo2.github.io/Html-Css-Capstone/)
 
 # Getting Started 🚀
 
