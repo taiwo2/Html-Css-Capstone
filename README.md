@@ -17,10 +17,6 @@ Additional description about the project and its features.
 
 [Live Demo Link](https://taiwo2.github.io/Html-Css-Capstone/)
 
-## video Demo
-
-[video](https://www.loom.com/share/3014e32fee2c44798aaae942b0aa8b92)
-
 # Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine.
