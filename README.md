@@ -17,6 +17,10 @@ Additional description about the project and its features.
 
 [Live Demo Link](https://taiwo2.github.io/Html-Css-Capstone/)
 
+## video Demo
+
+[video](https://www.loom.com/share/3014e32fee2c44798aaae942b0aa8b92)
+
 # Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -52,7 +56,8 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - Design idea by [Mathew Njuguna and others on Behance](https://www.behance.net/mathewnjuguna)
-- [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
+- [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0)
+- [Microverse](https://www.microverse.org/) for their `README` [template](https://github.com/microverseinc/readme-template).
 
 ## 📝 License
 
