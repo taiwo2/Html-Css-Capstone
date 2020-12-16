@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# A clone of the NewsWeek Website.
+# A project on directory of House Rent.
 
 This is an exact replica of the The Patashule website putting emphasis on how it behaves differently depending on the size of the screen where the website is rendered
 
