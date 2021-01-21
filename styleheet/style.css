@@ -7,13 +7,20 @@ header {
   width: auto;
 }
 
+header nav{
+  position: sticky;
+  z-index: 3;
+
+}
+
 .flex {
   display: block;
 }
 
 .head img {
-  width: 90px;
+  width: 100px;
   padding: 10px;
+  height: 30px;
 }
 
 .none {
