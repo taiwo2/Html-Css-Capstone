@@ -7,12 +7,6 @@ header {
   width: auto;
 }
 
-header nav{
-  position: sticky;
-  z-index: 3;
-
-}
-
 .flex {
   display: block;
 }
