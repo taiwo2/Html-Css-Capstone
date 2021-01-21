@@ -1,0 +1,411 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #d35266;
+  width: auto;
+}
+
+.flex {
+  display: block;
+}
+
+.head img {
+  width: 90px;
+  padding: 10px;
+}
+
+.none {
+  display: none;
+}
+
+.logo {
+  margin-left: 30%;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  margin-left: 28%;
+}
+
+.ml-3 {
+  margin-left: 2rem;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  color: white;
+}
+
+.more {
+  color: white;
+}
+
+.rent {
+  background-position: center;
+  color: #d4d4d4;
+  padding: 0 0 2rem 0;
+  background-color: white;
+}
+
+.note {
+  text-align: center;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.key {
+  text-align: center;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.form {
+  display: block;
+  background-color: lavender;
+  width: 100%;
+  padding: 8px;
+  align-content: center;
+  margin: auto;
+  right: 0;
+  left: 0;
+}
+
+.type {
+  color: black;
+  margin-left: 6px;
+}
+
+.select {
+  width: 70%;
+  margin: 7px;
+  box-sizing: border-box;
+}
+
+.article {
+  color: gray;
+  font-size: 19px;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.lekki img {
+  height: 100%;
+  width: 100%;
+}
+
+.lekki-house {
+  padding: 12px;
+  border: 1px solid transparent;
+}
+
+.lekk {
+  text-align: center;
+  padding: 4px;
+}
+
+.lekk a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 19px;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.for {
+  text-align: center;
+}
+
+.price p {
+  border-bottom: 2px solid black;
+  padding: 4px;
+}
+
+.space {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+footer {
+  background-color: black;
+  position: relative;
+  padding: 6px;
+}
+
+.foot {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+.foot a {
+  color: white;
+  text-decoration: none;
+}
+
+.foot li {
+  text-transform: uppercase;
+  padding: 4px;
+}
+
+.subscribe {
+  margin: 12px;
+  color: white;
+}
+
+.contacts {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.about {
+  text-align: center;
+  color: white;
+}
+
+.send {
+  border-radius: 5px;
+}
+
+.ign {
+  width: 40px;
+  height: 50px;
+  margin-left: 40%;
+  border-radius: 50%;
+  border: 1px solid white;
+}
+
+.int {
+  background-color: #d35266;
+  text-align: center;
+  padding: 2px;
+}
+
+.form-input {
+  width: 80%;
+  box-sizing: border-box;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.int-work {
+  margin: 6rem auto auto 5.2rem;
+}
+
+.pink {
+  color: #d35266;
+}
+
+@media (min-width: 548px) {
+  .head {
+    margin-left: 80px;
+  }
+
+  .int-work {
+    margin: 6rem auto auto 7rem;
+  }
+
+  .ign {
+    margin-left: 19rem;
+  }
+}
+
+@media (min-width: 768px) {
+  header {
+    max-width: 100%;
+  }
+
+  .logo {
+    margin-left: -90px;
+  }
+
+  .flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 30px;
+  }
+
+  .none {
+    display: inline-flex;
+    margin-left: 0.5rem;
+  }
+
+  .nav-bar {
+    font-size: 18px;
+  }
+
+  .md-flex {
+    display: flex;
+  }
+
+  .rent {
+    padding: 0 0 2rem 0;
+  }
+
+  .form-input {
+    max-width: 50%;
+  }
+
+  .int {
+    width: 120px;
+    margin-left: 4px;
+    border-radius: 9px;
+    background-color: blue;
+    padding-top: 7px;
+  }
+
+  .select {
+    width: auto;
+  }
+
+  .md-fle {
+    display: flex;
+    margin-left: 60px;
+  }
+
+  .btn {
+    margin-top: 22px;
+    margin-left: -9px;
+  }
+
+  .btn- {
+    background-color: #007bff;
+    border-style: none;
+    height: 1.2rem;
+    margin: 2px;
+  }
+
+  .btn_ {
+    background-color: rgba(221, 137, 34, 0.823);
+    margin-left: -6px;
+    border-style: none;
+    height: 1.2rem;
+  }
+
+  .lekki-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10px;
+  }
+
+  .footer {
+    padding: 3px;
+  }
+
+  .foot3 {
+    display: flex;
+    margin: 3rem;
+  }
+
+  .foot {
+    padding: 0;
+    margin-left: auto;
+  }
+
+  .foot a {
+    margin-left: 2px;
+  }
+
+  .foot5 {
+    margin-left: 4px;
+  }
+
+  .foot8 {
+    display: flex;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    justify-content: space-between;
+    position: relative;
+    margin-left: 0.9rem;
+  }
+
+  .ign {
+    margin-left: auto;
+    border-radius: 50%;
+    border: 1px solid white;
+    position: absolute;
+    bottom: -12px;
+  }
+
+  .md-level {
+    align-items: center;
+  }
+
+  .about {
+    margin: 20px;
+  }
+
+  .form {
+    height: 150px;
+    width: auto;
+    padding-top: 0;
+  }
+
+  .int-work {
+    color: gray;
+    margin: 7rem auto auto 9rem;
+    width: 9rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .head img {
+    padding: 14px;
+  }
+
+  .int {
+    background-color: #d35266;
+  }
+
+  .form {
+    font-weight: 700;
+  }
+
+  .lekki-grid {
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 15px;
+  }
+
+  .foot a {
+    margin-left: 43px;
+  }
+
+  .foot3 {
+    justify-content: center;
+  }
+}
+
+.header__burger-bar {
+  display: flex;
+  width: 1.2em;
+  height: 1px;
+  background-color: white;
+  margin: 5px 0;
+  border-radius: 3px;
+}
+
+.header__toggle {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
