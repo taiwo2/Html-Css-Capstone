@@ -107,14 +107,13 @@ footer {
   width: 20px;
   height: 25px;
   position: absolute;
+  margin-left: 17.5rem;
   border: 1px solid white;
   border-radius: 50%;
   padding: 0;
   background-color: #d4d4d4;
   margin-top: 9px;
-  top: 1%;
-  right: 47%;
-  left: 51%;
+  top: 0;
 }
 
 @media (min-width: 768px) {
@@ -132,7 +131,7 @@ footer {
 
   .ign {
     margin-top: 1.1rem;
-    margin-left: 22.28rem;
+    right: 48%;
   }
 }
 
